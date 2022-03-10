@@ -1,0 +1,36 @@
+p.titles {
+    font-family: "Bauhaus 93";
+
+
+}
+
+h2.whiteTitle {
+    font-family: "Bauhaus 93";
+    color: white;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+
+div.blackHalfDiv {
+    background: black;
+    height: 50%;
+    width: 100%;
+}
+
+div.whiteHalfDiv {
+    background: white;
+    height: 50%;
+    width: 1%;
+
+}
+
+div.halfDivLeft  {
+    alignment: left;
+
+}
+
+div.halfDivRight {
+
+    alignment: right;
+}
